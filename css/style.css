@@ -1,1 +1,7 @@
-/*my css will go here/*
+/*my css will go here*/
+body {
+	background-image: url("http://www.st-andrews.ac.uk/nightline/wp-content/uploads/puppies.jpeg");
+}
+h1 {
+	color: hotpink;
+}
