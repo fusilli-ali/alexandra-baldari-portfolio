@@ -1,7 +1,33 @@
-/*my css will go here*/
 body {
-	background-image: url("http://www.st-andrews.ac.uk/nightline/wp-content/uploads/puppies.jpeg");
+    background: url(../images/mount-hamilton-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: 50%;
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
 }
 h1 {
 	color: hotpink;
+	font-size: 5rem;
+}
+.intro {
+	margin-top: -3rem;
+}
+.menu-image {
+	width:35%;
+}
+.menu {
+	display: inline-block;
+}
+.menu-li {
+    display: inline;
+    font-size: 2rem;
+    background-image: url(../images/cloud.png);
+    background-size: 125%;
+    background-repeat: no-repeat;
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+.menu-li:hover {
+	color: white; 
 }
