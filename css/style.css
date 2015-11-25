@@ -1,38 +1,55 @@
 body {
     background: url(../images/mount-hamilton-2.JPG);
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-size: 60%;
+=======
+    background-size: 68%;
+>>>>>>> master
     background-position-x: 50%;
     text-align: center;
     font-family: 'Francois One', sans-serif;
 }
 h1 {
-	color: hotpink;
-	font-size: 5rem;
+    color: hotpink;
+    font-size: 5rem;
 }
 .intro {
-	margin-top: -3rem;
+    margin-top: -3rem;
 }
 .menu-image {
-	width:35%;
+    width:35%;
 }
 .menu {
+<<<<<<< HEAD
 	display: inline-block;
 	padding-top: 6rem;
+=======
+    display: inline-block;
+    padding-top: 8rem;
+>>>>>>> master
 }
 .menu-li {
     display: inline;
     font-size: 2rem;
     background-image: url(../images/cloud.png);
+<<<<<<< HEAD
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding-top: 5rem;
     padding-bottom: 5rem;
+=======
+    background-size: 92% 90%;
+    background-repeat: no-repeat;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+>>>>>>> master
     padding-left: 8rem;
     padding-right: 8rem;
     color: white;
 }
 a {
+<<<<<<< HEAD
 	text-decoration:none;
 }
 a:visited {
@@ -44,4 +61,17 @@ a:hover {
 }
 li:hover {
 	color: hotpink;
+=======
+    text-decoration:none;
+}
+a:visited {
+    color:white;
+    font-style: italic;
+}
+a:hover {
+    color:hotpink;
+}
+li:hover {
+    color: hotpink;
+>>>>>>> master
 }
