@@ -12,6 +12,7 @@ h1 {
 }
 .intro {
     margin-top: -3rem;
+    font-size: 1.5rem;
 }
 .menu-image {
     width:35%;
@@ -37,13 +38,13 @@ a {
 }
 a:visited {
 	color:white;
-	text-decoration: 
+	font-style: italic;  
 }
 a:hover {
 	color:hotpink;
 }
-a:visited {
-    color:white;
-    font-style: italic;
+.footer {
+    margin-top: 10rem;
+    font-size: 1.5rem;
+    line-height: 0;
 }
-
